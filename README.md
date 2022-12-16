@@ -1,4 +1,4 @@
-# Stock-Market-Analysis-And-Forecasting-
+# Project on Stock Market Analysis and Forecasting
 
 ![UI](gg.jpg)
 
